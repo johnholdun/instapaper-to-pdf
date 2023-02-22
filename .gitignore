@@ -1,0 +1,5 @@
+.bundle*
+exports/
+.env
+.DS_Store
+.pdf
