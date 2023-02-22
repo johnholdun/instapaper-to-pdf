@@ -1,6 +1,6 @@
 # Instapaper to PDF
 
-Turns your 25 most-recently-saved Instpaper articles into PDFs.
+Turns your 100 most-recently-saved Instpaper articles into PDFs.
 
 Requires a Premium subscription I think, and also an API key.
 
