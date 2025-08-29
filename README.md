@@ -1,5 +1,7 @@
 # Instapaper to PDF
 
+**Update, August 29 2025**: There's a new [official Instapaper integration for Kobo](https://www.instapaper.com/kobo) and it's really good. Just use that!
+
 Turns your 100 most-recently-saved Instpaper articles into PDFs.
 
 Requires a Premium subscription I think, and also an API key.
